@@ -114,12 +114,13 @@ To get started with the repository:
 
 ## **Contributions**
 
-We welcome contributions to enhance the repository, including:
-- Improvements to the algorithms.
-- New driver features.
-- Additional documentation or tutorials.
+- [Alessandro Marchei](https://github.com/alessandromarchei)
+- [Tommaso Terzano](https://github.com/TommiTerza)
+- Matilde Bidone
+- Mattia Ghibaudo
+- Matteo Maschiocchi
+- Valentina Marino
 
-Feel free to submit pull requests or open issues for discussions.
 
 ---
 
