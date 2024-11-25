@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1702370303 source:c:\users\aless\desktop\rsa\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
